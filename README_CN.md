@@ -69,6 +69,8 @@
 </div>
 <br>
 
+<p></p>
+
 - [Bragi Dash](https://github.com/iCHAIT/awesome-macOS) - 耳机介绍
 - [Samsung Gear IconX](https://github.com/herrbischoff/awesome-macos-command-line)
 - [Bose QuietComfort 35](https://github.com/agarrharr/awesome-macos-screensavers)
