@@ -107,3 +107,12 @@
 ## 播放器
 ## 笔记本
 ## 手表
+
+
+## 支持我
+
+如果你觉得我写的东西对你有用，不妨请我喝杯咖啡，感谢支持！
+
+<div align="center" valign="middle">
+![支持我](source/images/QR.jpg)
+<div>
