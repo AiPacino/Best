@@ -60,8 +60,12 @@
 - [Apple Airpods](https://github.com/vsouza/awesome-ios) - Mobile operating system for Apple phones and tablets.
 
 <div>
-<img align="right" width="82" height="82" alt="Fantasy Land" src="source/images/earphones/Airpods/AirPodsReviewM.jpg">
-<img align="right" width="131" height="82" src="source/images/earphones/Airpods/apple-airpods-2-785x441.jpg" />
+  <div align="center">
+    <img align="right" alt="Fantasy Land" src="source/images/earphones/Airpods/AirPodsReviewM.jpg">
+  </div>
+  <div>
+    <img align="right" src="source/images/earphones/Airpods/apple-airpods-2-785x441.jpg" />
+  </div>
 </div>
 <br>
 
