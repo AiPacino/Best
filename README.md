@@ -66,24 +66,24 @@
     <tr>
       <td align="center" valign="middle">
         <a href="https://laravel.com">
-          <img width="500px" src="source/images/earphones/Airpods/AirPodsReviewM.jpg">
+          <img width="500px" height="300px" src="source/images/earphones/Airpods/AirPodsReviewM.jpg">
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://htmlburger.com">
-          <img width="500px" src="source/images/earphones/Airpods/apple-airpods-2-785x441.jpg">
+          <img width="500px" height="300px" src="source/images/earphones/Airpods/apple-airpods-2-785x441.jpg">
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle">
         <a href="https://chaitin.cn/en/">
-          <img width="500px" src="source/images/earphones/Airpods/large_2x_endframe.jpg">
+          <img width="500px" height="300px" src="source/images/earphones/Airpods/large_2x_endframe.jpg">
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://leanpub.com/vuejs2">
-          <img width="500px" src="source/images/earphones/Airpods/large_2x_startframe.jpg">
+          <img width="500px" height="300px" src="source/images/earphones/Airpods/large_2x_startframe.jpg">
         </a>
       </td>
     </tr>
@@ -95,6 +95,38 @@
 
 
 - [Samsung Gear IconX](https://github.com/herrbischoff/awesome-macos-command-line)
+
+购买链接：[京东](https://item.jd.com/12152559.html)，[淘宝](https://www.amazon.cn/gp/product/B074JWSF99)，[亚马逊](http://product.dangdang.com/25138676.html)
+
+<table>
+<tbody>
+<tr>
+  <td align="center" valign="middle">
+    <a href="https://laravel.com">
+      <img width="500px" height="300px" src="source/images/earphones/SamsungGearIconX/gear-iconx-14245-1500x994.jpg">
+    </a>
+  </td>
+  <td align="center" valign="middle">
+    <a href="https://htmlburger.com">
+      <img width="500px" height="300px" src="source/images/earphones/SamsungGearIconX/sa-gear-iconx-r150-sm-r150nzbaksa-000000001-front-blue.jpeg">
+    </a>
+  </td>
+</tr>
+<tr>
+  <td align="center" valign="middle">
+    <a href="https://chaitin.cn/en/">
+      <img width="500px" height="300px" src="source/images/earphones/SamsungGearIconX/samsung_gear_iconx_2018_6.jpg">
+    </a>
+  </td>
+  <td align="center" valign="middle">
+    <a href="https://leanpub.com/vuejs2">
+      <img width="500px" height="300px" src="source/images/earphones/SamsungGearIconX/Samsung-Gear-IconX-1.jpg">
+    </a>
+  </td>
+</tr>
+</tbody>
+</table>
+
 - [Bose QuietComfort 35](https://github.com/agarrharr/awesome-macos-screensavers)
 - [Sony WH-1000XM2](https://github.com/iCHAIT/awesome-macOS) - 耳机介绍
 - [Sennheiser PXC 550](https://github.com/vsouza/awesome-ios) - Mobile operating system for Apple phones and tablets.
