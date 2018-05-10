@@ -59,11 +59,11 @@
 ## 耳机
 - [Apple Airpods](https://github.com/vsouza/awesome-ios) - Mobile operating system for Apple phones and tablets.
 
-<div>
+<div align="center">
   <div align="center">
     <img align="right" alt="Fantasy Land" src="source/images/earphones/Airpods/AirPodsReviewM.jpg">
   </div>
-  <div>
+  <div align="center">
     <img align="right" src="source/images/earphones/Airpods/apple-airpods-2-785x441.jpg" />
   </div>
 </div>
