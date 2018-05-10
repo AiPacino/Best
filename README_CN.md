@@ -42,8 +42,6 @@
 </p>
 <br>
 
-![Logo of Best Product](./source/images/AWESOME-PRODUCTIONS.jpg)
-
 ## 程序员必备清单
 
 - [耳机](#耳机)
