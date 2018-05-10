@@ -57,7 +57,14 @@
 - [手表](#computer-science)
 
 ## 耳机
-- [iOS](https://github.com/vsouza/awesome-ios) - Mobile operating system for Apple phones and tablets.
-- [macOS](https://github.com/iCHAIT/awesome-macOS) - 耳机介绍
-	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line)
-	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers)
+- [Apple Airpods](https://github.com/vsouza/awesome-ios) - Mobile operating system for Apple phones and tablets.
+
+<img align="right" width="82" height="82" alt="Fantasy Land" src="https://raw.github.com/fantasyland/fantasy-land/master/logo.png">
+<img align="right" width="131" height="82" src="https://raw.githubusercontent.com/rpominov/static-land/master/logo/logo.png" />
+
+
+- [Bragi Dash](https://github.com/iCHAIT/awesome-macOS) - 耳机介绍
+- [Samsung Gear IconX](https://github.com/herrbischoff/awesome-macos-command-line)
+- [Bose QuietComfort 35](https://github.com/agarrharr/awesome-macos-screensavers)
+- [Sony WH-1000XM2](https://github.com/iCHAIT/awesome-macOS) - 耳机介绍
+- [Sennheiser PXC 550](https://github.com/vsouza/awesome-ios) - Mobile operating system for Apple phones and tablets.
