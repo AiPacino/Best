@@ -57,8 +57,9 @@
 - [手表](#手表)
 
 ## 耳机
-- [第1名][Apple Airpods](https://github.com/vsouza/awesome-ios) - Mobile operating system for Apple phones and tablets.
-  - 购买链接：[京东](https://item.jd.com/12152559.html)，[淘宝](https://www.amazon.cn/gp/product/B074JWSF99)，[亚马逊](http://product.dangdang.com/25138676.html)
+- [第1名] [Apple Airpods](https://github.com/vsouza/awesome-ios) - Mobile operating system for Apple phones and tablets.
+
+    购买链接：[京东](https://item.jd.com/12152559.html)，[淘宝](https://www.amazon.cn/gp/product/B074JWSF99)，[亚马逊](http://product.dangdang.com/25138676.html)
 
 <table>
   <tbody>
