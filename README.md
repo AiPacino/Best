@@ -91,7 +91,8 @@
   </tbody>
 </table>
 
-- [第2名] [Bragi Dash] - 耳机介绍
+- [第2名] [Bragi Dash] - 无线，无界，舒适自由<br><br>
+	The Dash 是一款蓝牙无线耳机，防水设计，通过内置的健康与身体传感器，提供身体状态追踪功能。由于采用被动降噪技术，The Dash 可以通过内置耳骨传导话筒提供清晰的语音品质，感觉与现有一些设备的语音质量不相上下。聆听你的灵感，享受纯净音质。音频穿透，让世界安静下来，“音频穿透技术”科让您将音乐与周围环境融为一体，聆听自然。
 
 	购买链接：[京东](https://item.jd.com/12152559.html)，[淘宝](https://www.amazon.cn/gp/product/B074JWSF99)，[亚马逊](http://product.dangdang.com/25138676.html)
 
