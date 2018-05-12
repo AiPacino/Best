@@ -60,7 +60,7 @@
 - [第1名] [Apple Airpods] - 无线，无繁琐，只有妙不可言<br><br>
 		AirPods荣登耳机首选好物榜第一名，那是由于这个小小的耳机内涵的黑科技实在太多了，它再一次打破了耳机行业的很多技术壁垒和产品形态。AirPods也担得起「无线，无繁琐，只有妙不可言」的宣传语，属于用了就再也回不去的典型。更是取消了3.5mm耳机接口的iPhone的年度最佳配件，真正做到了在所有苹果设备上无缝互联互通。目前的无线蓝牙耳机市场，能够在续航、舒适度、稳定性、延迟、便利性、距离、音质、设计，甚至价格方面打败它的，没有
 
-    购买链接：[京东](https://union-click.jd.com/jdc?d=VwMEDs)，[淘宝](https://www.amazon.cn/gp/product/B074JWSF99)，[亚马逊](http://product.dangdang.com/25138676.html)
+    购买链接：[京东](https://union-click.jd.com/jdc?d=VwMEDs)，[淘宝](https://s.click.taobao.com/M7wMzQw)，[亚马逊](http://product.dangdang.com/25138676.html)
 
 <table>
   <tbody>
