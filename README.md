@@ -91,7 +91,7 @@
   </tbody>
 </table>
 
--[第2名] [Bragi Dash] - 耳机介绍
+- [第2名] [Bragi Dash] - 耳机介绍
 
 购买链接：[京东](https://item.jd.com/12152559.html)，[淘宝](https://www.amazon.cn/gp/product/B074JWSF99)，[亚马逊](http://product.dangdang.com/25138676.html)
 
