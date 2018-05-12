@@ -57,7 +57,7 @@
 - [手表](#手表)
 
 ## 耳机
-- [第1名] [Apple Airpods](https://union-click.jd.com/jdc?d=VwMEDs) - Mobile operating system for Apple phones and tablets.<br><br>
+- [第1名] [Apple Airpods](https://union-click.jd.com/jdc?d=VwMEDs) - 无线，无繁琐，只有妙不可言<br><br>
 		AirPods荣登耳机首选好物榜第一名，那是由于这个小小的耳机内涵的黑科技实在太多了，它再一次打破了耳机行业的很多技术壁垒和产品形态。
 
     购买链接：[京东](https://union-click.jd.com/jdc?d=VwMEDs)，[淘宝](https://www.amazon.cn/gp/product/B074JWSF99)，[亚马逊](http://product.dangdang.com/25138676.html)
