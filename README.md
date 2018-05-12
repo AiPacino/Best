@@ -58,7 +58,7 @@
 
 ## 耳机
 - [第1名] [Apple Airpods] - 无线，无繁琐，只有妙不可言<br><br>
-		AirPods荣登耳机首选好物榜第一名，那是由于这个小小的耳机内涵的黑科技实在太多了，它再一次打破了耳机行业的很多技术壁垒和产品形态。AirPods也担得起「无线，无繁琐，只有妙不可言」的宣传语，属于用了就再也回不去的典型。更是取消了3.5mm耳机接口的iPhone的年度最佳配件，真正做到了在所有苹果设备上无缝互联互通。目前的无线蓝牙耳机市场，能够在续航、舒适度、稳定性、延迟、便利性、距离、音质、设计，甚至价格方面打败它的，没有
+		AirPods荣登耳机首选好物榜第一名，那是由于这个小小的耳机内涵的黑科技实在太多了，它再一次打破了耳机行业的很多技术壁垒和产品形态。AirPods也担得起「无线，无繁琐，只有妙不可言」的宣传语，属于用了就再也回不去的典型。更是取消了3.5mm耳机接口的iPhone的年度最佳配件，真正做到了在所有苹果设备上无缝互联互通。目前的无线蓝牙耳机市场，能够在续航、舒适度、稳定性、延迟、便利性、距离、音质、设计，甚至价格方面打败它的，没有。
 
     购买链接：[京东](https://union-click.jd.com/jdc?d=VwMEDs)，[淘宝](https://s.click.taobao.com/M7wMzQw)，[亚马逊](http://product.dangdang.com/25138676.html)
 
@@ -94,44 +94,44 @@
 - [第2名] [Bragi Dash] - 无线，无界，舒适自由<br><br>
 	The Dash 是一款蓝牙无线耳机，防水设计，通过内置的健康与身体传感器，提供身体状态追踪功能。由于采用被动降噪技术，The Dash 可以通过内置耳骨传导话筒提供清晰的语音品质，感觉与现有一些设备的语音质量不相上下。聆听你的灵感，享受纯净音质。音频穿透，让世界安静下来，“音频穿透技术”科让您将音乐与周围环境融为一体，聆听自然。
 
-	购买链接：[京东](https://item.jd.com/12152559.html)，[淘宝](https://www.amazon.cn/gp/product/B074JWSF99)，[亚马逊](http://product.dangdang.com/25138676.html)
+	购买链接：[京东](https://union-click.jd.com/jdc?d=w55Hkl)，[淘宝](https://s.click.taobao.com/xTM1zQw)，[亚马逊](http://product.dangdang.com/25138676.html)
 
-<table>
-<tbody>
-<tr>
-	<td align="center" valign="middle">
-		<a href="https://laravel.com">
-			<img width="500px" height="200px" src="source/images/earphones/Airpods/AirPodsReviewM.jpg">
-		</a>
-	</td>
-	<td align="center" valign="middle">
-		<a href="https://htmlburger.com">
-			<img width="500px" height="200px" src="source/images/earphones/Airpods/apple-airpods-2-785x441.jpg">
-		</a>
-	</td>
-</tr>
-<tr>
-	<td align="center" valign="middle">
-		<a href="https://chaitin.cn/en/">
-			<img width="500px" height="200px" src="source/images/earphones/Airpods/large_2x_endframe.jpg">
-		</a>
-	</td>
-	<td align="center" valign="middle">
-		<a href="https://leanpub.com/vuejs2">
-			<img width="500px" height="200px" src="source/images/earphones/Airpods/large_2x_startframe.jpg">
-		</a>
-	</td>
-</tr>
-</tbody>
-</table>
+	<table>
+		<tbody>
+			<tr>
+	  <td align="center" valign="middle">
+	    <a href="https://laravel.com">
+	      <img width="500px" height="200px" src="source/images/earphones/SamsungGearIconX/gear-iconx-14245-1500x994.jpg">
+	    </a>
+	  </td>
+	  <td align="center" valign="middle">
+	    <a href="https://htmlburger.com">
+	      <img width="500px" height="200px" src="source/images/earphones/SamsungGearIconX/sa-gear-iconx-r150-sm-r150nzbaksa-000000001-front-blue.jpeg">
+	    </a>
+	  </td>
+			</tr>
+			<tr>
+	  <td align="center" valign="middle">
+	    <a href="https://chaitin.cn/en/">
+	      <img width="500px" height="200px" src="source/images/earphones/SamsungGearIconX/samsung_gear_iconx_2018_6.jpg">
+	    </a>
+	  </td>
+	  <td align="center" valign="middle">
+	    <a href="https://leanpub.com/vuejs2">
+	      <img width="500px" height="200px" src="source/images/earphones/SamsungGearIconX/Samsung-Gear-IconX-1.jpg">
+	    </a>
+	  </td>
+			</tr>
+		</tbody>
+	</table>
 
-- [Samsung Gear IconX](https://github.com/herrbischoff/awesome-macos-command-line)
+- [第三名] [Samsung Gear IconX] -
 
 购买链接：[京东](https://item.jd.com/12152559.html)，[淘宝](https://www.amazon.cn/gp/product/B074JWSF99)，[亚马逊](http://product.dangdang.com/25138676.html)
 
 <table>
-<tbody>
-<tr>
+	<tbody>
+		<tr>
   <td align="center" valign="middle">
     <a href="https://laravel.com">
       <img width="500px" height="200px" src="source/images/earphones/SamsungGearIconX/gear-iconx-14245-1500x994.jpg">
@@ -142,8 +142,8 @@
       <img width="500px" height="200px" src="source/images/earphones/SamsungGearIconX/sa-gear-iconx-r150-sm-r150nzbaksa-000000001-front-blue.jpeg">
     </a>
   </td>
-</tr>
-<tr>
+		</tr>
+		<tr>
   <td align="center" valign="middle">
     <a href="https://chaitin.cn/en/">
       <img width="500px" height="200px" src="source/images/earphones/SamsungGearIconX/samsung_gear_iconx_2018_6.jpg">
@@ -154,8 +154,8 @@
       <img width="500px" height="200px" src="source/images/earphones/SamsungGearIconX/Samsung-Gear-IconX-1.jpg">
     </a>
   </td>
-</tr>
-</tbody>
+		</tr>
+	</tbody>
 </table>
 
 - [Bose QuietComfort 35](https://github.com/agarrharr/awesome-macos-screensavers)
