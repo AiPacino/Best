@@ -105,19 +105,19 @@
 		</a>
 	</td>
 	<td align="center" valign="middle">
-		<a href="https://htmlburger.com">
+		<a href="#">
 			<img width="500px" height="200px" src="source/images/earphones/Airpods/apple-airpods-2-785x441.jpg">
 		</a>
 	</td>
 		</tr>
 		<tr>
 	<td align="center" valign="middle">
-		<a href="https://chaitin.cn/en/">
+		<a href="">
 			<img width="500px" height="200px" src="source/images/earphones/Airpods/large_2x_endframe.jpg">
 		</a>
 	</td>
 	<td align="center" valign="middle">
-		<a href="https://leanpub.com/vuejs2">
+		<a href="">
 			<img width="500px" height="200px" src="source/images/earphones/Airpods/large_2x_startframe.jpg">
 		</a>
 	</td>
