@@ -99,28 +99,28 @@
 <table>
 	<tbody>
 		<tr>
-	<td align="center" valign="middle">
-		<a href="https://laravel.com">
-			<img width="500px" height="200px" src="source/images/earphones/Airpods/AirPodsReviewM.jpg">
-		</a>
-	</td>
-	<td align="center" valign="middle">
-		<a href="#">
-			<img width="500px" height="200px" src="source/images/earphones/Airpods/apple-airpods-2-785x441.jpg">
-		</a>
-	</td>
+  <td align="center" valign="middle">
+    <a href="https://laravel.com">
+      <img width="500px" height="200px" src="source/images/earphones/SamsungGearIconX/gear-iconx-14245-1500x994.jpg">
+    </a>
+  </td>
+  <td align="center" valign="middle">
+    <a href="https://htmlburger.com">
+      <img width="500px" height="200px" src="source/images/earphones/SamsungGearIconX/sa-gear-iconx-r150-sm-r150nzbaksa-000000001-front-blue.jpeg">
+    </a>
+  </td>
 		</tr>
 		<tr>
-	<td align="center" valign="middle">
-		<a href="">
-			<img width="500px" height="200px" src="source/images/earphones/Airpods/large_2x_endframe.jpg">
-		</a>
-	</td>
-	<td align="center" valign="middle">
-		<a href="">
-			<img width="500px" height="200px" src="source/images/earphones/Airpods/large_2x_startframe.jpg">
-		</a>
-	</td>
+  <td align="center" valign="middle">
+    <a href="https://chaitin.cn/en/">
+      <img width="500px" height="200px" src="source/images/earphones/SamsungGearIconX/samsung_gear_iconx_2018_6.jpg">
+    </a>
+  </td>
+  <td align="center" valign="middle">
+    <a href="https://leanpub.com/vuejs2">
+      <img width="500px" height="200px" src="source/images/earphones/SamsungGearIconX/Samsung-Gear-IconX-1.jpg">
+    </a>
+  </td>
 		</tr>
 	</tbody>
 </table>
